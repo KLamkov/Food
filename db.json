@@ -23,50 +23,6 @@
     }
   ],
   "requests": [
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 1
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 2
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 3
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 4
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 5
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 6
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 7
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 8
-    },
-    {
-      "name": "Kirill",
-      "phone": "+380660832627",
-      "id": 9
-    }
+    
   ]
 }

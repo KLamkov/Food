@@ -11,11 +11,11 @@ import slider from './modules/slider';
 import {openModal} from './modules/modal';
 
 window.addEventListener('DOMContentLoaded', function() {
-    const modalTimerId = setTimeout(() => openModal('.modal', modalTimerId), 50000);
+    const modalTimerId = setTimeout(() => openModal('.modal', modalTimerId), 3000);
 
     tabs('.tabheader__item', '.tabcontent', '.tabheader__items', 'tabheader__item_active');
     modal('[data-modal]', '.modal', modalTimerId);
-    timer('.timer', '2022-09-20');
+    timer('.timer', '2022-10-30');
     cards();
     calc();
     forms('form', modalTimerId);
